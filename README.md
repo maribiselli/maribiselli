@@ -1,6 +1,7 @@
-<h1 align="center">Olá! Eu sou a Mariane</h1>
+<h1 align="center">Oie, eu sou a Mariane!</h1>
 
-<p align="center">💻 Desenvolvedora em transição de carreira | Foco em Java, Web e Mobile</p>
+<p align="center">☕ Desenvolvedora movida por desafios, aprendizado e café  | 💻 Em transição de carreira, com foco em Java, JavaScript, Web e Mobile</p>
+
 
 ---
 
